@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # sphinxtest documentation build configuration file, created by
-# sphinx-quickstart on Thu May 18 23:29:33 2017.
+# sphinx-quickstart on Fri May 19 00:52:13 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
